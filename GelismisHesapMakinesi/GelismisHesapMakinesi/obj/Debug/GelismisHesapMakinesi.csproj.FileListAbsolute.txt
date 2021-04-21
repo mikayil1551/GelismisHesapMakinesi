@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\GelismisHesapMakinesi\GelismisHesapMakinesi\bin\Debug\GelismisHesapMakinesi.exe.config
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\GelismisHesapMakinesi\GelismisHesapMakinesi\bin\Debug\GelismisHesapMakinesi.exe
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\GelismisHesapMakinesi\GelismisHesapMakinesi\bin\Debug\GelismisHesapMakinesi.pdb
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.Form1.resources
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.exe
+C:\Users\User\Desktop\YenidenC#\Introduction4.16.2021\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.pdb
